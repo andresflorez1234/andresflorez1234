@@ -25,5 +25,3 @@ Databases:   MySQL
 Tools:       Git, GitHub, Figma, VS Code
 
 ### 🚴 A Bit More About Me
-
-> *"Cycling clears my mind the same way coding sharpens my focus. Both push me forward, both keep me moving."*
