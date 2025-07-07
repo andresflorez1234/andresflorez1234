@@ -29,7 +29,7 @@
 
 **Frameworks:**<br>
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="45" height="45"/> <img src="https://iconape.com/wp-content/files/vp/370638/svg/bootstrap-logo-icon-png-svg.png" alt="Bootstrap" width="45" height="45"/> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" alt="Node.js" width="50" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="45" height="45"/> <img src="https://iconape.com/wp-content/files/vp/370638/svg/bootstrap-logo-icon-png-svg.png" alt="Bootstrap" width="45" height="45"/> <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" alt="Node.js" width="45" height="45"/>
 <br>
 
 **Databases:**<br>
