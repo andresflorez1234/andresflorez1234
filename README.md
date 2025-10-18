@@ -1,17 +1,17 @@
 ## Hola 😎
 
-Me llamo **Andrés Felipe Flórez Paternina**, soy **desarrollador web Full Stack** con pasión por la tecnología y el ciclismo 🚴‍♂️.  
+Me llamo **Andrés Felipe Flórez Paternina**, soy **desarrollador Full Stack** con pasión por la tecnología y el ciclismo 🚴‍♂️.  
 Mi enfoque es construir soluciones digitales funcionales, atractivas y accesibles para los usuarios.  
 
 ---
 
 ### 💻 Manejo tecnologías como:
-JavaScript, HTML, CSS, Python, Django, Node.js, MySQL, Firebase, Figma y Bootstrap.
+JavaScript, TypeScript, HTML, CSS, Python, Django, Node.js, MySQL, Mongo, Figma.
 
 ---
 
 ### 🚀 Actualmente estoy:
-- Desarrollando proyectos **full stack** con Django, Next.js y Nest.js.  
+- Desarrollando proyectos **full stack**  
 - Perfeccionando mis habilidades en **arquitectura de software** y **buenas prácticas de desarrollo**.  
 - Explorando nuevas herramientas para optimizar mis flujos de trabajo.  
 
