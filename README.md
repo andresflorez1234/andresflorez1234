@@ -5,13 +5,31 @@ Mi enfoque es construir soluciones digitales funcionales, atractivas y accesible
 
 ---
 
-### 💻 Manejo tecnologías como:
-JavaScript, TypeScript, HTML, CSS, Python, Django, Node.js, MySQL, Mongo, Figma.
+### 💻 Tecnologías que manejo:
+
+🧠 Lenguajes de programación
+
+JavaScript, TypeScript, Python.
+
+🧩 Lenguajes de marcado y estilos
+
+HTML, CSS.
+
+🗄️ Bases de datos
+
+MySQL, MongoDB.
+
+⚙️ Frameworks y entornos
+
+Django, Node.js.
+
+✏️ Diseño y editores de código
+
+Figma, Visual Studio Code, Cursor.
 
 ---
 
 ### 🚀 Actualmente estoy:
-- Desarrollando proyectos **full stack**  
 - Perfeccionando mis habilidades en **arquitectura de software** y **buenas prácticas de desarrollo**.  
 - Explorando nuevas herramientas para optimizar mis flujos de trabajo.  
 
